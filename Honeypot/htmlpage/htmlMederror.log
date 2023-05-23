@@ -1,0 +1,8 @@
+[Wed May 10 05:37:48.372990 2023] [dumpio:trace7] [pid 8924:tid 1942991872] mod_dumpio.c(164): [client 192.168.1.175:2995] mod_dumpio: dumpio_out
+[Wed May 10 05:37:48.373139 2023] [dumpio:trace7] [pid 8924:tid 1942991872] mod_dumpio.c(58): [client 192.168.1.175:2995] mod_dumpio:  dumpio_out (metadata-FLUSH): 0 bytes
+[Wed May 10 05:37:48.373163 2023] [dumpio:trace7] [pid 8924:tid 1942991872] mod_dumpio.c(58): [client 192.168.1.175:2995] mod_dumpio:  dumpio_out (metadata-EOC): 0 bytes
+[Wed May 10 05:38:15.321874 2023] [dumpio:trace7] [pid 8924:tid 1917842432] mod_dumpio.c(135): [client 192.168.1.175:2998] mod_dumpio: dumpio_in [getline-blocking] 0 readbytes
+[Wed May 10 05:38:35.342106 2023] [dumpio:trace7] [pid 8924:tid 1917842432] mod_dumpio.c(150): [client 192.168.1.175:2998] mod_dumpio: dumpio_in - 70007
+[Wed May 10 05:38:35.342438 2023] [dumpio:trace7] [pid 8924:tid 1917842432] mod_dumpio.c(164): [client 192.168.1.175:2998] mod_dumpio: dumpio_out
+[Wed May 10 05:38:35.342488 2023] [dumpio:trace7] [pid 8924:tid 1917842432] mod_dumpio.c(58): [client 192.168.1.175:2998] mod_dumpio:  dumpio_out (metadata-FLUSH): 0 bytes
+[Wed May 10 05:38:35.342526 2023] [dumpio:trace7] [pid 8924:tid 1917842432] mod_dumpio.c(58): [client 192.168.1.175:2998] mod_dumpio:  dumpio_out (metadata-EOC): 0 bytes

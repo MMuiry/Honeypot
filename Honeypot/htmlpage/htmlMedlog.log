@@ -1,0 +1,6 @@
+192.168.1.175 - - [10/May/2023:05:37:27 +0100] "GET / HTTP/1.1" 200 673 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+192.168.1.175 - - [10/May/2023:05:37:27 +0100] "GET /login.css HTTP/1.1" 200 1588 "http://192.168.1.177/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+192.168.1.175 - - [10/May/2023:05:37:27 +0100] "GET /bourbon HTTP/1.1" 404 495 "http://192.168.1.177/login.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+192.168.1.175 - - [10/May/2023:05:37:43 +0100] "POST / HTTP/1.1" 200 673 "http://192.168.1.177/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+192.168.1.175 - - [10/May/2023:05:37:43 +0100] "GET /bourbon HTTP/1.1" 404 495 "http://192.168.1.177/login.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36"
+192.168.1.175 - - [10/May/2023:05:38:35 +0100] "-" 408 0 "-" "-"
