@@ -8,12 +8,12 @@ As of right now, only http has medium interaction
 Information on honeypot 
 Honours Honeypot.
 
-Place the whole "Honeypot" folder in the documents folder at /home/[username]/Documents/ 
+1. Place the whole "Honeypot" folder in the documents folder at /home/[username]/Documents/ 
 
-In the command terminal, run "sudo python3 /home/honeypot/Documents/Honeypot/InstallFirst.py".
+2. In the command terminal, run "sudo python3 /home/honeypot/Documents/Honeypot/InstallFirst.py".
 This can take a minute or two.
 
-To use the application, just type in the terminal "sudo python3 /home/honeypot/Documents/Honeypot/Start.py" and use either buttons or 
+3. To use the application, just type in the terminal "sudo python3 /home/honeypot/Documents/Honeypot/Start.py" and use either buttons or 
 keyboard 
 
 To read the logs again, open "ActivityLogs.txt"
