@@ -59,7 +59,7 @@ def apache2_start():
 
 
 def run():
-    subprocess.run(["sudo", "python3", "StopServices.py"])
+    subprocess.run(["sudo", "python3", "stopservices.py"])
     file_path = "chosenservices.txt"
     #depending on what the user choose, it will run the services
     with open(file_path, "r") as file:
