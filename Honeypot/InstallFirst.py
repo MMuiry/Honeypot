@@ -84,7 +84,7 @@ if result.returncode == 0:
 else:
     print("xinetd is not installed on this system. Installing it now...")
     subprocess.run(["sudo", "apt-get","-y", "install", "xinetd"])
-subprocess.run([
+
 
 # Write to /etc/inetd.conf
 inetd_conf_contents = 'telnet stream tcp nowait telnetd /usr/sbin/tcpd /usr/sbin/in.telnetd'
