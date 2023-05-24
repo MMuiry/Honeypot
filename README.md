@@ -6,7 +6,7 @@ logs services listed - ssh,telnet,ftp,http.
 As of right now, only http has medium interaction
 
 Information on honeypot 
-Honours Honeypot.
+Honours Honeypot install instructions or watch Yotube video here - ASK FOR VIDEO AS VIDEO IS SUBJECT TO CHANGE.
 
 1. Place the whole "Honeypot" folder in the documents folder at /home/[username]/Documents/ 
 
