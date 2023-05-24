@@ -5,7 +5,10 @@ import time
 wouldyou = "no"
 import RPi.GPIO as GPIO
 import nmap 
+import warnings
 
+# Filter the RuntimeWarning category
+warnings.filterwarnings("ignore", category=RuntimeWarning)
 #defines pins (CHANGE GPIO NUMBER HERE IF DIFFRENT PINS ARE USED)
 UP_PIN = 2
 DOWN_PIN = 4
